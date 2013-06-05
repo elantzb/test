@@ -3,3 +3,4 @@ line1-edited for feature2 [requires B]
 line2-edited for feature1 [requires A]
 line3
 line4
+line5-github commit
