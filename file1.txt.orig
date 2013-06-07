@@ -1,5 +1,0 @@
-FILE1
-line1-edited for feature2 [requires B]
-line2-edited for feature1 [requires A]
-line3 - local edit
-line4 - remote edit
